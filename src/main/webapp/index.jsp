@@ -4,7 +4,8 @@
 <h2 style="color:pink;">Hello World!</h2>
 <h1>Devops</h1>
 <h1> Prashik Goma !!! </h1>
-		<h2 style="color:green;">my name is Classmate</h2>		
+		<h2 style="color:green;">my name is Classmate</h2>
+		<h1> New Line Added </h1>
 		
 	</center>
 </body>
